@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HT_7.2.1</string>
+    <string name="searchButton">search</string>
+    <string name="coordinatesET">Введите адрес или координаты</string>
+</resources>
